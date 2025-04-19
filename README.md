@@ -1,5 +1,4 @@
-# PythonProject
-DiabetesPrediction
+# DiabetesPrediction
 
 Description : 
 
